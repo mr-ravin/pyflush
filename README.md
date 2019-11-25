@@ -1,5 +1,5 @@
 # pyflush
-This repository contains python code to remove content of a directory, or file in a safer manner.
+This repository contains python code to remove content of a directory, or file in a safer manner. After running pyflush, it became much safer to delete the file manually/programmatically.
 
 #### Developer: [Ravin Kumar](http://mr-ravin.github.io)
 
