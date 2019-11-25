@@ -9,10 +9,9 @@ def randomchar():
     return chr(random_index)
 
 def flushfile(file_name):
+    cnt=0
     file_size=os.path.getsize(file_name)
     wlink=open(file_name,"w")
-    wlink.write(randomchar())
-    cnt=1
     while cnt<file_size:
       wlink.write(randomchar())
       cnt=cnt+1
