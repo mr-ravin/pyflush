@@ -25,6 +25,4 @@ pyflush.flushdir("directoryname")
 pip3 install pyflush
 ```
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Developer.
-
-##### NOTE: Please use this library at your own risk !!!
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
